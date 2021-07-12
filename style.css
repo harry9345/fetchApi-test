@@ -1,0 +1,10 @@
+#json {
+  width: auto;
+  height: 130px;
+  border: 1px solid black;
+  text-align: center;
+}
+.qoutes {
+  color: blue;
+  font-weight: 600;
+}
